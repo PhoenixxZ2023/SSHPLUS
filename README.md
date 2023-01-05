@@ -19,13 +19,13 @@
 # Como Instalar!
 
 ````
-bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/TURBONET2023/main/ssh-plus)
+bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/SSHPLUS/main/Plus)
 ````
 
 # Instalar Direto e Máquinas 64!
 
 ````
-wget https://raw.githubusercontent.com/PhoenixxZ2023/TURBONET2023/main/script/64/Plus ; chmod +x Plus ; ./Plus
+wget https://raw.githubusercontent.com/PhoenixxZ2023/SSHPLUS/main/script/64/Plus ; chmod +x Plus ; ./Plus
 ````
 
 # Telegram
