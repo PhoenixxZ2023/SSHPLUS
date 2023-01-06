@@ -1,1 +1,0 @@
-rm -rf install; wget https://raw.githubusercontent.com/PhoenixxZ2023/SSHPLUS/main/install; chmod +x install; ./install
